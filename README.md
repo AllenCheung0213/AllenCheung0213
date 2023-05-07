@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Learning Deep Learning**
 
-- 📝 Find me on LinkedIn [https://www.linkedin.com/in/alcheung0213/](https://www.linkedin.com/in/alcheung0213/)
-
 - 💬 Ask me about **Machine Learning algorithms and OpenAI APIs**
 
 - 📫 How to reach me **acheung@wpi.edu**
