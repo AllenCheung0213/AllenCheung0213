@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allen Cheung</h1>
 <h3 align="center">A passionate Data Scientist/Computer Scientist from Worcester Polytechnic Institute!</h3>
 
-- 🔭 I’m currently working on [Stock Market Prediction](https://github.com/AllenCheung0213/Stock-Market-Predictions)
+- 🔭 I’m currently working on [Uber Data Analytics](https://github.com/AllenCheung0213/Uber-Data-Analytics)
 
 - 🌱 I’m currently learning **React, Databases, Software Engineering**
 
